@@ -5,15 +5,21 @@ Senior Frontend Developer
 Building complex enterprise applications with Angular, TypeScript and BPMN ecosystems.
 
 <p align="left">
-    <a href="https://t.me/VyacheslavSazonov">
-        <img src="https://img.shields.io/badge/Telegram-@VyacheslavSazonov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
 
-    <a href="https://www.linkedin.com/in/vyacheslav-sazonov-509b3911a/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+<a href="https://t.me/VyacheslavSazonov">
 
-    <img src="https://komarev.com/ghpvc/?username=mrdrap&style=for-the-badge">
+<img src="https://img.shields.io/badge/Telegram-@VyacheslavSazonov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/vyacheslav-sazonov-509b3911a/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SlavKanevskiy&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -81,10 +87,10 @@ Meta-driven form system with:
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mrdrap&show_icons=true&theme=transparent"/>
+src="https://github-readme-stats.vercel.app/api?username=wssazonov&show_icons=true&theme=transparent"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdrap&layout=compact&theme=transparent"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=wssazonov&layout=compact&theme=transparent"/>
 
 </p>
 
