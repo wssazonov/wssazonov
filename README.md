@@ -1,4 +1,4 @@
-# Hi, I'm Slava 👋
+# Hi, I'm Vyacheslav 👋
 
 Senior Frontend Developer
 
