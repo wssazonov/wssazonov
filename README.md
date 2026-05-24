@@ -18,7 +18,7 @@ Building complex enterprise applications with Angular, TypeScript and BPMN ecosy
 
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SlavKanevskiy&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=wssazonov&style=for-the-badge"/>
 
 </p>
 
