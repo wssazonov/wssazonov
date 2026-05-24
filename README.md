@@ -40,7 +40,7 @@ Building complex enterprise applications with Angular, TypeScript and BPMN ecosy
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,rxjs,git,docker,jest,vscode,github" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,rxjs,git,docker,jest,vscode,github" />
 
 </p>
 
